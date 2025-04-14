@@ -9,6 +9,8 @@ yarn.lock
 .output
 .vinxi
 
+migrations/
+
 /build/
 /api/
 /server/build
